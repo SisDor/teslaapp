@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>teslaapp</finalName>
+		<finalName>ebaybtp</finalName>
 		
 		<plugins>
 			<plugin>
